@@ -9,6 +9,13 @@ const COMMON_CONSTANTS = {
     TISAX: "tisax",
     CONTACT: "contact",
     FAQ: "faq",
+    HOME_PAGE: {
+      TITLE: "a legacy of quality",
+      SECONDARY_TITLE: "One stop Solution for training needs.",
+    },
+    BUTTON: {
+      READ_MORE: "Read More",
+    },
   },
 };
 
